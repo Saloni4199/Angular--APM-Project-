@@ -1,0 +1,9 @@
+th, td{
+    justify-content: center;
+    width: 200px;
+}
+
+thead{
+    color: rgb(50, 50, 154);
+}
+
